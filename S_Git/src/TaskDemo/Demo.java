@@ -15,6 +15,10 @@ public class Demo {
 	{
 		System.out.println("Git Method M2");
 	}
+	public void m3()
+	{
+	        System.out.println("Git Method M3");
+	}
 	
 	
 }
