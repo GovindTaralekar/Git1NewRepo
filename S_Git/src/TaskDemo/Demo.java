@@ -11,6 +11,10 @@ public class Demo {
 	{
 	      System.out.println("GitHub");	
 	}	
+	public void m2()
+	{
+		System.out.println("Git Method M2");
+	}
 	
 	
 }
