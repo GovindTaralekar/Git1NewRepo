@@ -7,6 +7,10 @@ public class Demo {
 		System.out.println("Git");
 		
 	}
+	public void m1()
+	{
+	      System.out.println("GitHub");	
+	}	
 	
 	
 }
