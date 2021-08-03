@@ -6,6 +6,10 @@ public class Demo {
 		
 		System.out.println("Git");
 		System.out.println("Git1");
+		Demo d=new Demo();
+		d.m1();
+		d.m2();
+		d.m3();
 		
 	}
 	public void m1()
