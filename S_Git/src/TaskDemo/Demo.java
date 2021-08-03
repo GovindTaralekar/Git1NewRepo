@@ -10,6 +10,7 @@ public class Demo {
 		d.m1();
 		d.m2();
 		d.m3();
+		d.m4();
 		
 	}
 	public void m1()
