@@ -8,32 +8,13 @@ public class Demo {
 		System.out.println("Git1");
 		Demo d=new Demo();
 		d.m1();
-		d.m2();
-		d.m3();
-		d.m4();
-		System.out.println("Method Method Ends...");
+	
+		System.out.println("Method Method Ends");
 		
 	}
 	public void m1()
 	{
 	      System.out.println("GitHub");	
-	}	
-	public void m2()
-	{
-		System.out.println("Git Method M2");
-	}
-	public void m3()
-	{
-	        System.out.println("Git Method M3");
-	}
-	public void m4()
-	{
-	        System.out.println("Git Method M4");
-	}
-	public void m5()
-	{
-		System.out.println("Git Method M5");
-	       
 	}
 	
 	
