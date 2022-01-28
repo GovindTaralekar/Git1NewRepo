@@ -6,19 +6,15 @@ public class Demo {
 		
 		System.out.println("Git");
 		System.out.println("Git1");
+		Demo d=new Demo();
+		d.m1();
+	
+		System.out.println("Method Method Ends");
 		
 	}
 	public void m1()
 	{
 	      System.out.println("GitHub");	
-	}	
-	public void m2()
-	{
-		System.out.println("Git Method M2");
-	}
-	public void m3()
-	{
-	        System.out.println("Git Method M3");
 	}
 	
 	
